@@ -4,5 +4,5 @@ module.exports = {
   options: {
     frequency: 60 * 23, // (in minutes), 23 hours
   },
-  urls: ["https://saga11.dev/"],
+  urls: ["https://www.speedlify.dev/"],
 };
