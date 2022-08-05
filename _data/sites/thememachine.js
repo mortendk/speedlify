@@ -8,6 +8,7 @@ module.exports = {
     "https://thememachine.io/",
     "https://saga11.dev/",
     "https://morten.dk/",
-    "https://colorfultattoocon.com/",
+    "https://vesterbrojul.dk",
+    "https://highvoltagecph.dk",
   ],
 };
